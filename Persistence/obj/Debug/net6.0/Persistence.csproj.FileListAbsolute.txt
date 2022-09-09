@@ -1,0 +1,15 @@
+D:\wondebiz-projects\FreshStartProject\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\wondebiz-projects\FreshStartProject\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\wondebiz-projects\FreshStartProject\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\wondebiz-projects\FreshStartProject\Persistence\bin\Debug\net6.0\Domain.dll
+D:\wondebiz-projects\FreshStartProject\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\wondebiz-projects\FreshStartProject\Persistence\obj\Debug\net6.0\ref\Persistence.dll

@@ -1,0 +1,17 @@
+D:\wondebiz-projects\FreshStartProject\Application\bin\Debug\net6.0\Application.deps.json
+D:\wondebiz-projects\FreshStartProject\Application\bin\Debug\net6.0\Application.dll
+D:\wondebiz-projects\FreshStartProject\Application\bin\Debug\net6.0\Application.pdb
+D:\wondebiz-projects\FreshStartProject\Application\bin\Debug\net6.0\Domain.dll
+D:\wondebiz-projects\FreshStartProject\Application\bin\Debug\net6.0\Persistence.dll
+D:\wondebiz-projects\FreshStartProject\Application\bin\Debug\net6.0\Domain.pdb
+D:\wondebiz-projects\FreshStartProject\Application\bin\Debug\net6.0\Persistence.pdb
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.dll
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\refint\Application.dll
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\Application.pdb
+D:\wondebiz-projects\FreshStartProject\Application\obj\Debug\net6.0\ref\Application.dll

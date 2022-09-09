@@ -1,0 +1,12 @@
+D:\wondebiz-projects\FreshStartProject\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\wondebiz-projects\FreshStartProject\Domain\bin\Debug\net6.0\Domain.dll
+D:\wondebiz-projects\FreshStartProject\Domain\bin\Debug\net6.0\Domain.pdb
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\Domain.dll
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\Domain.pdb
+D:\wondebiz-projects\FreshStartProject\Domain\obj\Debug\net6.0\ref\Domain.dll
